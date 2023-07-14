@@ -1,0 +1,15 @@
+{
+    "name": "sagittaracc/container",
+    "autoload": {
+        "psr-4": {
+            "Sagittaracc\\Container\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Yuriy Arutyunyan",
+            "email": "sagittaracc@gmail.com"
+        }
+    ],
+    "require": {}
+}
